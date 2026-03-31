@@ -1,0 +1,1 @@
+This slackbot will parse the MLB schedule to let you know about the slate of day baseball games coming up (first pitch before 4 PM EST). It checks for any games on the current date, can scan for the next day game, and can also pinpoint specific dates.
